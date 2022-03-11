@@ -1,0 +1,4 @@
+Toy,20.0
+Bike,200.0
+Picture,39.99
+Candle,49.99
